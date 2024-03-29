@@ -29,7 +29,7 @@ Univariate and Bivariate Analysis of All Variables
 - Business Insight using Clustering Data
 - Splitting the dataset into Train and Test Datasets
   
-## Applying various Supervised Machine Learning Models to find out the Top variables which feature Defaulting Customers.
+## Applying various Supervised Machine Learning Models to identify Top Variables. 
 - using Parametric and Non-parametric Models and checking model performances using various Performance metrics.
 - Applying Parameter Tuning where Necessary
 - Comparing Model performances using Various Metrics and Checking Fit of the model.
